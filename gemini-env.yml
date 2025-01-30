@@ -1,0 +1,7 @@
+name: gemini-takehome
+channels:
+  - defaults
+dependencies:
+  - pandas=2.2.3
+  - boto3
+  - jupyter
